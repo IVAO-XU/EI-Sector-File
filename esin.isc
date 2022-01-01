@@ -1,0 +1,73 @@
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+[INFO]
+N051.28.39.000
+W000.27.41.000
+60
+37.4
+-0.1
+eisn;eisn\ei-nav;eisn\airfield-layouts;eisn\gates;eins\rma;eins\sids;eisn\stars;eisn\taxiways;eisn\visual
+
+[DEFINE]
+TRAS;#003d1240;
+REFUELLINGAREAS;#003d1240;
+RADARCORRIDORS;#003d1240;
+
+[ATC]
+F;eipx\eipx-atc.atc
+F;eisn\eisn-atc.atc
+
+[AIRPORT]
+F;ei-nav\eisn-apt.apt
+
+[RUNWAY]
+F;ei-nav\eisn-rwy.rwy
+
+[gates]
+F;ei-nav\eisn-gates.gts
+
+[FIXei]
+F;ei-nav\eisn-fix.fix
+F;ei-nav\eisn-foreign-fix.fix
+
+[NDB]
+F;ei-nav\eisn-ndb.ndb
+F;ei-nav\eisn-foreign-ndb.ndb
+
+[VOR]
+F;ei-nav\eisn-vor.vor
+F;ei-nav\eisn-foreign-vor.vor
+
+[LOW AIRWAY]
+F;ei-nav\eisn-low-airways.lairway
+
+[HIGH AIRWAY]
+F;ei-nav\eisn-high-airways.hairway
+
+[ARTCC HIGH]
+//HS button aka high sectors
+F;ei-nav\eisn-high-sectors.artcc
+
+[ARTCC LOW]
+//LS button aka low sectors
+F;ei-nav\eisn-low-sectors.artcc
+
+[ARTCC]
+F;ei-nav\ctr-cta-airport.airspace
+
+[GEO]
+F;ei-nav\eisn-coastline.geo
+F;eisn\airfield-layouts\EIDW.geo
+F;eisn\airfield-layouts\EINN.geo
+F;eisn\airfield-layouts\EICK.geo
+F;eisn\airfield-layouts\EICM.geo
+F;eisn\airfield-layouts\EIDL.geo
+F;eisn\airfield-layouts\EIKN.geo
+F;eisn\airfield-layouts\EIKY.geo
+F;eisn\airfield-layouts\EIME.geo
+F;eisn\airfield-layouts\EISG.geo
+F;eisn\airfield-layouts\EIWF.geo
+F;eisn\airfield-layouts\EIWT.geo

@@ -9,7 +9,7 @@ W000.27.41.000
 60
 37.4
 -0.1
-eisn;eisn\ei-nav;eisn\airfield-layouts;eisn\gates;eins\rma;eins\sids;eisn\stars;eisn\taxiways;eisn\visual
+eixx;eixx\ei-nav;eixx\airfield-layouts;eixx\gates;eins\rma;eins\sids;eixx\stars;eixx\taxiways;eixx\visual
 
 [DEFINE]
 TRAS;#003d1240;
@@ -17,7 +17,6 @@ REFUELLINGAREAS;#003d1240;
 RADARCORRIDORS;#003d1240;
 
 [ATC]
-F;eipx\eipx-atc.atc
 F;eisn\eisn-atc.atc
 
 [AIRPORT]

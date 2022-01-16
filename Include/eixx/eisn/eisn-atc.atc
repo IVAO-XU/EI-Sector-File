@@ -1,0 +1,42 @@
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
+EIAB_AGC_TWR;122.600;
+EIBN_I_TWR;122.400;
+EIBR_I_TWR;122.950;
+EIBT_AGC_TWR;123.600;
+EICA_I_TWR;123.000;
+EICK_GND;121.850;EICK EISN;
+EICK_TWR;119.300;EICK EISN;
+EICK_APP;119.900;EICK EISN;
+EICK_R_APP;118.800;EICK EISN;
+EICL	Clonbullogue
+EICM	Carnmore
+EICN	Coonagh
+EIDL	Garrickfin
+EIDW	Dublin
+EIHH	Navan
+EIIF	Ilas Field
+EIIM	Inishmore
+EIIR	Inisheer
+EIKH	Kilrush
+EIKK	Kilkenny
+EIKN	Knock
+EIKY	Farranfore
+EILT	Letterkenny
+EIME	Casement
+EIMH	Athboy
+EIMN	Inishmaan
+EIMS	Mountshannon
+EINC	Newcastle-Eire
+EINN	Limerick
+EIRE	Abbeyfeale
+EIRT	Rathcoole
+EISG	Sligo
+EITB	Tibohine
+EITM	Trim
+EITT	Trevet
+EIWF	Waterford
+EIWT	Weston

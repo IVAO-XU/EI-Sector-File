@@ -11,11 +11,6 @@ W000.27.41.000
 -0.1
 eixx;eixx\ei-nav;eixx\airfield-layouts;eixx\gates;eixx\rma;eixx\sids;eixx\stars;eixx\taxiways;eixx\visual
 
-[DEFINE]
-TRAS;#003d1240;
-REFUELLINGAREAS;#003d1240;
-RADARCORRIDORS;#003d1240;
-
 [ATC]
 F;eisn\eisn-atc.atc
 
@@ -31,6 +26,7 @@ F;ei-nav\eisn-gates.gts
 [FIXES]
 F;ei-nav\eisn-fix.fix
 F;ei-nav\eisn-foreign-fix.fix
+f;ei-nav\eisn-procedure-fix.fix
 
 [NDB]
 F;ei-nav\eisn-ndb.ndb

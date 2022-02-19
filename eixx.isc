@@ -9,7 +9,7 @@ W000.27.41.000
 60
 37.4
 -0.1
-eixx;eixx\ei-nav;eixx\airfield-layouts;eixx\gates;eixx\rma;eixx\sids;eixx\stars;eixx\taxiways;eixx\visual
+eixx;eixx\ei-nav;eixx\eisn\airfield-layouts;eixx\eisn\gates;eixx\eisn\rma;eixx\eisn\sids;eixx\eisn\stars;eixx\eisn\taxiways;eixx\eisn\visual
 
 [ATC]
 F;eisn\eisn-atc.atc
@@ -20,13 +20,13 @@ F;ei-nav\eisn-apt.apt
 [RUNWAY]
 F;ei-nav\eisn-rwy.rwy
 
-[gates]
+[GATES]
 F;ei-nav\eisn-gates.gts
 
 [FIXES]
 F;ei-nav\eisn-fix.fix
-F;ei-nav\eisn-foreign-fix.fix
 f;ei-nav\eisn-procedure-fix.fix
+F;ei-nav\eisn-foreign-fix.fix
 
 [NDB]
 F;ei-nav\eisn-ndb.ndb

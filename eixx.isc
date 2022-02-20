@@ -39,16 +39,9 @@ F;ei-nav\eisn-foreign-vor.vor
 [LOW AIRWAY]
 F;ei-nav\eisn-low-airways.lairway
 
-[HIGH AIRWAY]
-F;ei-nav\eisn-high-airways.hairway
-
 [ARTCC HIGH]
 //HS button aka high sectors
 F;ei-nav\eisn-high-sectors.artcc
-
-[ARTCC LOW]
-//LS button aka low sectors
-F;ei-nav\eisn-low-sectors.artcc
 
 [ARTCC]
 F;ei-nav\ctr-cta-airport.airspace

@@ -11,6 +11,10 @@ W012.30.00.000
 -2
 eixx;eixx\ei-nav;eixx\eisn\airfield-layouts;eixx\eisn\gates;eixx\eisn\rma;eixx\eisn\sids;eixx\eisn\stars;eixx\eisn\taxiways;eixx\eisn\visual
 
+[DEFINE]
+CTA;#47647E;
+NOTA;#47647E;
+
 [ATC]
 F;eisn\eisn-atc.atc
 
@@ -47,6 +51,7 @@ F;ei-nav\eisn-high-sectors.artcc
 F;ei-nav\ctr-cta-airport.airspace
 
 [GEO]
+F;ei-nav\eisn-tma-cta-ctr.geo
 F;ei-nav\eisn-coastline.geo
 F;eisn\airfield-layouts\EIDW.geo
 F;eisn\airfield-layouts\EINN.geo

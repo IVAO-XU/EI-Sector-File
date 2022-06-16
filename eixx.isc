@@ -12,8 +12,9 @@ W012.30.00.000
 eixx;eixx\ei-nav;eixx\eisn\airfield-layouts;eixx\eisn\gates;eixx\eisn\rma;eixx\eisn\sids;eixx\eisn\stars;eixx\eisn\taxiways;eixx\eisn\visual
 
 [DEFINE]
-CTA;#47647E;
-NOTA;#47647E;
+CTA;#E1E164;
+NOTA;#E1E164;
+SOTA;#E1E164;
 
 [ATC]
 F;eisn\eisn-atc.atc

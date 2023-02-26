@@ -11,6 +11,11 @@ W012.30.00.000
 -2
 eixx;eixx\ei-nav;eixx\eisn\airfield-layouts;eixx\eisn\gates;eixx\eisn\rma;eixx\eisn\sids;eixx\eisn\stars;eixx\eisn\taxiways;eixx\eisn\visual
 
+[DEFINE]
+CTA;#E1E164;
+NOTA;#E1E164;
+SOTA;#E1E164;
+
 [ATC]
 F;eisn\eisn-atc.atc
 
@@ -39,6 +44,10 @@ F;ei-nav\eisn-foreign-vor.vor
 [LOW AIRWAY]
 F;ei-nav\eisn-low-airways.lairway
 
+[ARTCC LOW]
+//LS button aka low sectors
+F;ei-nav\eisn-low-sectors.artcc
+
 [ARTCC HIGH]
 //HS button aka high sectors
 F;ei-nav\eisn-high-sectors.artcc
@@ -47,6 +56,7 @@ F;ei-nav\eisn-high-sectors.artcc
 F;ei-nav\ctr-cta-airport.airspace
 
 [GEO]
+F;ei-nav\eisn-tma-cta-ctr.geo
 F;ei-nav\eisn-coastline.geo
 F;eisn\airfield-layouts\EIDW.geo
 F;eisn\airfield-layouts\EINN.geo
@@ -59,3 +69,6 @@ F;eisn\airfield-layouts\EIME.geo
 F;eisn\airfield-layouts\EISG.geo
 F;eisn\airfield-layouts\EIWF.geo
 F;eisn\airfield-layouts\EIWT.geo
+
+[FILLCOLOR]
+F;ei-atc\eisn-atc.plf

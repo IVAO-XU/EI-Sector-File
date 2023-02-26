@@ -58,6 +58,9 @@ F;ei-nav\ctr-cta-airport.airspace
 [GEO]
 F;ei-nav\eisn-tma-cta-ctr.geo
 F;ei-nav\eisn-coastline.geo
+F;ei-nav\eixx-danger-areas.danger
+F;ei-nav\eixx-prohibited-areas.prohibit
+F;ei-nav\eixx-restricted-areas.restrict
 F;eisn\airfield-layouts\EIDW.geo
 F;eisn\airfield-layouts\EINN.geo
 F;eisn\airfield-layouts\EICK.geo
@@ -72,3 +75,4 @@ F;eisn\airfield-layouts\EIWT.geo
 
 [FILLCOLOR]
 F;ei-atc\eisn-atc.plf
+F;ei-atc\foreign-atc.plf

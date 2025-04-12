@@ -70,8 +70,10 @@ F;eisn\airfield-layouts\EIME.geo
 F;eisn\airfield-layouts\EISG.geo
 F;eisn\airfield-layouts\EIWF.geo
 F;eisn\airfield-layouts\EIWT.geo
+F;eisn\airfield-layouts\EITB.geo
 
 [FILLCOLOR]
 F;ei-atc\eisn-atc.plf
 F;ei-atc\foreign-atc.plf
 F;eisn\airfield-layouts\EIWT.plf
+F;eisn\airfield-layouts\EITB.plf

@@ -44,6 +44,9 @@ F;ei-nav\eisn-foreign-vor.vor
 [LOW AIRWAY]
 F;ei-nav\eisn-low-airways.lairway
 
+[HIGH AIRWAY]
+F;ei-nav\eisn-high-airways.hairway
+
 [ARTCC LOW]
 F;ei-nav\ctr-cta-airport.airspace
 

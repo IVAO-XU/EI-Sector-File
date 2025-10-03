@@ -1,6 +1,6 @@
 //////////////////////////////////////////
-//        IVAO XU COMMU;EIME;NITY Sector      //
-// Developed by the IVAO XU commu;EIME;Nity   //
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
 //////////////////////////////////////////
 
 H1;EIME;N053.18.24.224;W006.26.30.617;

@@ -8,13 +8,35 @@ N052.55.00.000
 W012.30.00.000
 60
 37.4
--2
+-2.8
 eixx;eixx\ei-nav;eixx\eisn\airfield-layouts;eixx\eisn\gates;eixx\eisn\rma;eixx\eisn\sids;eixx\eisn\stars;eixx\eisn\taxiways;eixx\eisn\visual
 
 [DEFINE]
 CTA;#E1E164;
 NOTA;#E1E164;
 SOTA;#E1E164;
+TRAS;#960000;
+REFUELLINGAREAS;#960000;
+RADARCORRIDORS;#960000;
+CTA;#323232;
+TMA;#323232;
+TAXIBLUE;#00A2FF;
+TAXIORANGE;#E16535;
+APRON;#464646;
+BOUNDARY;#134E31;
+BUILDING;#101010;
+CONCRETE;#3c3c3c;
+DISUSEDTAXIWAY;#3c3c3c;
+GRASS;#134E31;
+GRASSRUNWAY;#0f3e27;
+GRASSTAXIWAY;#114620;
+RUNWAY;#1E1E1E;
+RUNWAYMARKINGS;#999999;
+TAXIWAY;#4E4E4E;
+foreignatc;#0C0C0C;
+localatc;#0C0C0C;
+radaratc;#006060;
+COAST;#252E39;
 
 [ATC]
 F;eisn\eisn-atc.atc
@@ -78,7 +100,17 @@ F;eisn\airfield-layouts\EITB.geo
 F;eisn\airfield-layouts\EIAB.geo
 
 [FILLCOLOR]
+F;ei-atc\coast.plf
 F;ei-atc\eisn-atc.plf
 F;ei-atc\foreign-atc.plf
+F;ei-atc\egtt-w-ctr.plf
+F;ei-atc\egpx-m-ctr.plf
+F;ei-atc\egtt-n-ctr.plf
+F;ei-atc\egpx-ctr.plf
+F;ei-atc\shaded-rma.plf
 F;eisn\airfield-layouts\EIWT.plf
 F;eisn\airfield-layouts\EITB.plf
+
+[MVAENR]
+F;ei-nav\00DB.mva
+F;ei-nav\00IC.mva

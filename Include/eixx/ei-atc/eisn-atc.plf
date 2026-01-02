@@ -47,21 +47,6 @@ EISN_CTR EISN_D_CTR;localatc;0;localatc;0;
 48.50;-8;
 49;-15;
 
-//EISN_LS_CTR
-EISN_CTR EISN_LS_CTR;localatc;0;localatc;0;
-54;-15;
-54.57;-10;
-54.649369;-9.555564;
-54.75;-9;
-55.33;-8.25;
-55.42;-7.33;
-55.33;-6.91;
-54.42;-8.17;
-53.92;-5.5;
-52.33;-5.5;
-51;-8;
-51;-15;
-
 //EIDW_CTR
 EIDW_CTR EIDW_N_CTR;localatc;0;localatc;0;
 N054.09.18.994;W006.46.14.017;

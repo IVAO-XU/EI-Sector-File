@@ -1,0 +1,30 @@
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+
+// Next ATC;Origin Airport;Destination Airport;Waypoint;Altitude (xfl);
+
+//---------------EXTERNAL------------------------
+//EIDW->EGPX M
+EGPX_M_CTR EGTT_N_CTR EGTT_CTR;EIDW EIWT;;LIFFY;230;
+
+//EIDW->EGTT W
+EGTT_W_CTR EGTT;EIDW EIWT;;BAKUR;250+;
+
+//EISN->EGTT W
+EGTT_W_CTR EGTT;;EG;BANBA BAKUR;330;
+EGTT_N_CTR EGTT;;EG;BOFUM DEXEN;330;
+EGTT_W_CTR EGTT;EICK;;LEDGO;230;
+
+
+//---------------INTERNAL------------------------
+//EIDW->EISN
+EISN_LS_CTR EISN_C_CTR EISN_CTR;EIDW EIWT;;BAKUR;230;
+
+//EISN->EIDW
+EIDW_N_CTR;EI;EIDW;BUNED;280;
+
+//EISN_LS->EICK_APP
+EICK_APP;;EICK;ERTER;160;

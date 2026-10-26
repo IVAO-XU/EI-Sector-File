@@ -8,13 +8,13 @@ EINN_GND;121.805;EINN EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;0;;
 EINN_TWR;118.705;EINN EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EINN_APP;121.405;EINN EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 
-EIWT_GND;119.425;EIWT EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
-EIWT_TWR;122.400;EIWT EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EIWT_GND;119.430;EIWT EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EIWT_TWR;122.405;EIWT EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 
 EISG_TWR;122.105;EISG EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\noatis.atis;
 
-EIKN_GND;121.900;EIKN EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
-EIKN_TWR;130.700;EIKN EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EIKN_GND;121.905;EIKN EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EIKN_TWR;130.705;EIKN EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 
 EIKY_GND;121.605;EIKY EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EIKY_TWR;123.330;EIKY EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
@@ -24,10 +24,10 @@ EICK_TWR;119.305;EICK EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;0;;
 EICK_APP;119.905;EICK EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EICK_R_APP;118.805;EICK EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 
-EIDL_TWR;129.800;EIDL EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EIDL_TWR;129.805;EIDL EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 
-EIWF_GND;121.600;EIWF EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
-EIWF_TWR;129.850;EIWF EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EIWF_GND;121.605;EIWF EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EIWF_TWR;129.855;EIWF EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 
 //Dublin Group
 EIDW_DEL;122.985;EIDW EISN_C_CTR EISN_CTR;;ATIS\voicedublin.atis;0;;ATIS\dublin.atis;

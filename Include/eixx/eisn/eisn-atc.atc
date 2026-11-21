@@ -57,9 +57,9 @@ EISN_D_CTR;135.230;EISN EGGX CZQX LFBB;;0;;;ATIS\area.atis;
 EISN_FSS;127.500;;;1;;;ATIS\noatis.atis;
 
 //FIS Stations
-EIAB_AG_TWR;122.600;;;1;;;ATIS\noatis.atis;
+EIAB_AG_TWR;122.605;;;1;;;ATIS\noatis.atis;
 
-EIBN_I_TWR;122.400;;;1;;;ATIS\noatis.atis;
+EIBN_I_TWR;122.405;;;1;;;ATIS\noatis.atis;
 
 EIBR_I_TWR;122.955;;;1;;;ATIS\noatis.atis;
 
@@ -67,7 +67,7 @@ EICA_I_TWR;123.000;;;1;;;ATIS\noatis.atis;
 
 EICL_AG_TWR;128.550;;;1;;;ATIS\noatis.atis;
 
-EICN_AG_TWR;129.900;;;1;;;ATIS\noatis.atis;
+EICN_AG_TWR;129.905;;;1;;;ATIS\noatis.atis;
 
 EIIM_I_TWR;123.000;;;1;;;ATIS\noatis.atis;
 
@@ -75,8 +75,10 @@ EIIR_I_TWR;123.000;;;1;;;ATIS\noatis.atis;
 
 EIKK_AG_TWR;122.900;;;1;;;ATIS\noatis.atis;
 
-EIMH_I_TWR;118.550;;;1;;;ATIS\noatis.atis;
+EIMH_I_TWR;118.555;;;1;;;ATIS\noatis.atis;
 EIMN_I_TWR;123.000;;;1;;;ATIS\noatis.atis;
+
+EINC_AG_TWR;122.555;;;1;;;ATIS\noatis.atis;
 
 EIRT_AG_TWR;132.505;;;1;;;ATIS\noatis.atis;
 

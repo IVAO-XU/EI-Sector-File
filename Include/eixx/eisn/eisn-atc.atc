@@ -31,7 +31,7 @@ EIWF_TWR;129.855;EIWF EISN_LS_CTR EISN_C_CTR EISN_CTR;;ATIS\voicesingle.atis;1;;
 
 //Dublin Group
 EIDW_DEL;122.985;EIDW EISN_C_CTR EISN_CTR;;ATIS\voicedublin.atis;0;;ATIS\dublin.atis;
-EIDW_GND;121.805;EIDW EISN_C_CTR EISN_CTR;;ATIS\voicedublin.atis;0;;ATIS\dublin.atis;
+EIDW_S_GND;121.805;EIDW EISN_C_CTR EISN_CTR;;ATIS\voicedublin.atis;0;;ATIS\dublin.atis;
 EIDW_N_GND;125.885;EIDW EISN_C_CTR EISN_CTR;;ATIS\voicedublin.atis;0;;ATIS\dublin.atis;
 EIDW_N_TWR;124.680;EIDW EISN_C_CTR EISN_CTR;;ATIS\voicedublin.atis;0;;ATIS\dublin.atis;
 EIDW_S_TWR;118.605;EIDW EISN_C_CTR EISN_CTR;;ATIS\voicedublin.atis;0;;ATIS\dublin.atis;
